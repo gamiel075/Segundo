@@ -1,0 +1,138 @@
+
+
+@import url('https://fonts.googleapis.com/css2?family=Cabin+Sketch&display=swap');
+
+
+
+body {
+
+    background-image: url(man-1853545_1280.jpg);
+    height: 1200px;
+}
+
+
+header {
+
+background-color: #FA0F00;
+padding: 30px;
+position: fixed;
+width: 1295px;
+
+}
+
+
+nav {
+
+    display: flex;
+    justify-content: end;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 17px;
+    
+    
+    }
+    
+    
+    nav li {
+    
+    display: inline;
+    margin: 0 0 0 15px;
+    }
+
+
+
+    a {
+
+    text-decoration: none;
+    color: black;
+
+    }
+
+
+    .corpo {
+
+     display: flex;
+     justify-content: center;
+     flex-direction: column;
+     color: white;
+
+
+    }
+
+
+    .corpo_1 {
+
+     display: flex;
+     justify-content: space-between;
+     margin: 10% 20%;
+
+
+    }
+
+    h1 {
+
+
+      font-size: 140px;
+      font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+
+    }
+
+    .palavra {
+
+
+text-decoration: line-through dotted red;
+
+
+    }
+
+
+    .paragrafo {
+      
+     display: flex;
+     justify-content: center;
+     column-gap: 90px;
+     width: 1000px;
+    margin-top: 30px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+     font-size: 30px;
+     margin: 14%;
+
+     /* colum gap é a distancia entre colunas depois estudar mais isso no flex box */
+
+    }
+
+
+    .yellow {
+
+      color: yellow;
+
+    }
+
+
+    footer {
+
+      width: 100%;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+    
+    }
+    
+    
+    .foter
+    
+    {
+      padding: 20px;
+      background-color: #FA0F00;
+      margin-top: 220px;
+      width: 500px;
+      border-radius: 6px;
+      color: #FFFFFF;
+      text-align: center;
+      
+    
+    
+    
+    }
+
+    

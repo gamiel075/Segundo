@@ -1,0 +1,126 @@
+
+
+
+
+
+  @import url('https://fonts.googleapis.com/css2?family=Cabin+Sketch&display=swap');
+
+
+
+
+
+
+:root::after
+
+{
+
+    --cor_principal: #000000 ;
+    --cor_secundaria: #FFFFFF ;
+     
+
+}
+
+
+body {
+
+    background-image: url(man-1853545_1280.jpg);
+}
+
+header {
+background-color: #FA0F00;
+padding: 30px;
+
+}
+
+nav {
+
+display: flex;
+justify-content: end;
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+font-size: 17px;
+
+
+}
+
+
+nav li {
+
+display: inline;
+margin: 0 0 0 15px;
+}
+
+a {
+
+text-decoration: none;
+color: black;
+
+}
+
+.meio {
+
+    display: flex;
+    justify-content:baseline;
+    flex-direction: column;
+    color: #FFFFFF;
+    margin: 2%;
+
+}
+
+
+.meio_conteudo
+
+{
+
+width: 615px;
+margin-top: 250px;
+font-size: 100px;
+font-family: 'Cabin Sketch', cursive;
+color: #FFFFFF;
+
+}
+
+
+h1 {
+
+
+text-decoration:underline 10px red dotted ;
+
+}
+
+p {
+
+font-size: 30px;
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+
+
+}
+
+
+
+footer {
+
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+}
+
+
+.foter
+
+{
+  padding: 20px;
+  background-color: #FA0F00;
+  margin-top: 220px;
+  width: 500px;
+  border-radius: 6px;
+  color: #FFFFFF;
+  text-align: center;
+  
+
+
+
+}
+

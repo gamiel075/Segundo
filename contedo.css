@@ -1,0 +1,111 @@
+
+
+@import url('https://fonts.googleapis.com/css2?family=Cabin+Sketch&display=swap');
+
+
+
+body {
+
+    background-image: url(man-1853545_1280.jpg);
+    height: 1200px;
+}
+
+
+header {
+
+background-color: #FA0F00;
+padding: 30px;
+position: fixed;
+width: 1295px;
+
+}
+
+
+nav {
+
+    display: flex;
+    justify-content: end;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 17px;
+    
+    
+    }
+    
+    
+    nav li {
+    
+    display: inline;
+    margin: 0 0 0 15px;
+    }
+
+    a {
+
+
+        text-decoration: none;
+        color: black;
+
+
+    }
+
+
+    .corpo {
+
+
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        
+
+
+    }
+
+
+    p {
+
+
+font-size: 30px;
+color: white;
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+margin-top: 50px;
+
+    }
+
+
+    .MUSICA {
+
+font-size: 50px;
+text-decoration: line-through red dotted;
+
+    }
+
+.corpo_1 {
+
+
+    display: flex;
+    justify-content: center;
+    margin-top: 120px;
+    
+    
+}
+
+
+
+
+
+.corpo_2 {
+
+
+
+
+margin: 5%;
+border: 2px red solid;
+
+}
+
+ .corpo_2:hover {
+
+
+border: 3px;
+color:aliceblue;
+ 
+ }
